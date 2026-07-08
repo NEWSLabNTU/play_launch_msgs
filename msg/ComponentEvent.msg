@@ -10,3 +10,4 @@ string full_node_name
 string package_name
 string plugin_name
 string error_message
+int32 pid
