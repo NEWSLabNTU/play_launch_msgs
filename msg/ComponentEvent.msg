@@ -11,3 +11,4 @@ string package_name
 string plugin_name
 string error_message
 int32 pid
+uint64 start_time
